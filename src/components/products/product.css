@@ -1,0 +1,63 @@
+.product{
+    position: relative;
+    margin-top: 130px;
+}
+.vector {
+    position: absolute;
+    top: -224px;
+    left: -87px;
+    z-index: -1;
+    width: 161px;
+}
+.ellipse11 {
+    position: absolute;
+    top: -75px;
+    left: 921px;
+}
+.ellipse8 {
+    position: absolute;
+    top: -87px;
+    left: 691px;
+    width: 173px;
+}
+.ellipse7 {
+    position: absolute;
+    top: 107px;
+    left: 630px;
+}
+.ellipse10 {
+    position: absolute;
+    top: 153px;
+    left: 688px;
+    width: 210px;
+}
+.ellipse13 {
+    position: absolute;
+    top: 37px;
+    left: 891px;
+    width: 200px;
+}
+.ellipse12 {
+    position: absolute;
+    top: 400px;
+    left: 753px;
+}
+.ellipse6 {
+    position: absolute;
+    top: 270px;
+    left: 902px;
+}
+.ellipse4 {
+    position: absolute;
+    top: 307px;
+    left: 801px;
+    z-index: -1;
+    width: 400px;
+}
+.find{
+    width: Fill (636px);
+height: Hug (56px);
+gap: 16px;
+text-decoration: none;
+color: black;
+}

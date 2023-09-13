@@ -1,0 +1,32 @@
+.iphone{
+    padding-top: 150px;
+}
+.ai-work{
+    padding-top: 80px;
+    position: relative;
+    left: -10px;
+    color: #000;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.5px;
+text-transform: capitalize;
+}
+.stream {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    position: absolute;
+    left: 107px;
+    width: 594px;
+    padding-top: 62px;
+}
+.admin{
+    font-size: 20px;
+    
+}

@@ -1,0 +1,192 @@
+.main-content{
+    font-family: Inter;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+position: relative;
+color: #002D72;
+margin-top: 50px;
+
+}
+.child-content{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+color: #717171;
+
+}
+.contact-information{
+    width: 1248px;
+height: 759px;
+padding: 56px;
+border-radius: 10px;
+gap: 125px;
+box-shadow: 0px 0px 10px 0px #00000029;
+margin-bottom: 50px;
+margin-top: 60px;
+}
+.provide-information{
+    width: 416px;
+height: 647px;
+padding: 40px;
+border-radius: 8px;
+justify-content : space-between;
+background-color: #002D72;
+margin-left: 40px;
+color: white;
+position: relative;
+}
+.information{
+    font-family: Inter;
+font-size: 28px;
+font-weight: 600;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.say-something{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: 
+#C9C9C9;
+}
+.phone-pic{
+    width: 24px;
+height: 24px;
+position: absolute;
+top: -3px;
+
+}
+.location-pic{
+    width: 24px;
+height: 24px;
+position: absolute;
+top: 110px;
+}
+.email-pic{
+    width: 24px;
+height: 24px;
+position: absolute;
+top: 55px;
+left: 0px;
+}
+.information-pics{
+    position: relative;
+    margin-top: 150px;
+    
+}
+.image-text{
+    display: flex   ;
+}
+.only-text{
+    position: absolute;
+    left: 50px;
+}
+.email-text{
+    display: flex;
+}
+.location-text{
+    display: flex;
+}
+.only-email{
+    position: absolute;
+    left: 50px;
+    top: 57px;
+}
+.only-location{
+    position: absolute;
+    left: 50px;
+    top: 112px;
+    width: 288px;
+height: 38px;
+
+}
+.facebook-logo{
+    position: absolute;
+    top: 570px;
+}
+.twitter-logo{
+    position: absolute;
+    top: 570px;
+    left: 80px;
+}
+.instagram-logo{
+    position: absolute;
+    top: 570px;
+    left: 123px;
+}
+.left-form{
+    margin-left: 541px;
+    margin-top: -539px;
+    position: relative;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}
+.first-hr{
+    margin-right: 348px;
+    margin-top: 2px;
+    color: 
+    #000000;
+}
+.last-name{
+    position: absolute;
+    left: 277px;
+    top: 0px;
+    color: 
+    #000000;
+}
+.second-hr{
+    margin-top: 2px;
+}
+.phone-nmb{
+    margin-left: 277px;
+    margin-top: -70px;
+}
+.third-hr{
+    margin-top: 5px;
+    margin-right: 64px;
+}
+.select-subject{
+    font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.radio-items{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.message{
+    font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+color: #8D8D8D;
+
+}
+.last-hr{
+    margin-right: 60px;
+}

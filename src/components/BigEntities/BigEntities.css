@@ -1,0 +1,23 @@
+.big-entities{
+    position: relative;
+    top: 80px;
+}
+.leading{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+width: 595px;
+height: 174px;
+
+}
+
+.entities {
+    position: absolute;
+    left: 893px;
+    width: 270px;
+    height: 270px;
+    top: -30px;
+}

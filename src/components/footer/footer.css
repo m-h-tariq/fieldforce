@@ -1,0 +1,73 @@
+.footer {
+    width: 1263px;
+    height: 330px;
+    padding: 56px 100px 56px 100px;
+    gap: 56px;
+    background-color: #011C2A;
+    margin-top: 0px;
+    position: relative;
+}
+.group31{
+    width: 209.3333282470703px;
+height: 64px;
+gap: 16px;
+margin: 3px;
+
+}
+.google{
+    margin-top: 30px;
+    display: flex;
+    gap: 23px;
+}
+.rectangle27 {
+    position: absolute;
+    top: 209px;
+    left: 478px;
+}
+.rectangle26 {
+    left: 551px;
+    position: absolute;
+    top: 254px;
+}
+.foot {
+    display: flex;
+    width: 427px;
+    height: 51px;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 100px;
+    color: white;
+    margin-left: 693px;
+    margin-top: -120px;
+    padding-left: 10px;
+    gap: 20px;
+  }
+  .fp {
+    
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-left: 20px;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+  }
+  .logo {
+    margin-left: 960px;
+    display: flex;
+    gap: 14px;
+    margin-top: 79px;
+}
+.copy{
+    margin-left: 872px;
+    font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 10px;
+margin-top: 20px;
+color: 
+#A6B0B4                          
+}

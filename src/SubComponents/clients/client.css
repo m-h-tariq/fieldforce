@@ -1,0 +1,16 @@
+.leader{
+    position: absolute;
+    left: 545px;
+    top: 300px;
+}
+.name{
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.5px;
+text-transform: capitalize;
+}

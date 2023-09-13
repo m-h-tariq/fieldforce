@@ -1,0 +1,27 @@
+.key-feature {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-transform: capitalize;
+    margin-bottom: -70px;
+    position: relative;
+   
+  }
+  .group35{
+    position: absolute;
+    left: 0px;
+    z-index: -1;
+    width: 270px;
+  }
+  .group36 {
+    position: absolute;
+    left: 997px;
+    top: 478px;
+    width: 266px;
+} 
+
